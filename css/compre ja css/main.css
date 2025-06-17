@@ -254,3 +254,10 @@ ul li {
 .especific-margin-1 {
     margin-bottom:480px;
 }
+
+#container-3d {
+    position:fixed;
+    inset:0;
+    z-index:100;
+    pointer-events:none;
+}
