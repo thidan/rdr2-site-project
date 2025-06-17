@@ -167,7 +167,7 @@ ul {
 }
 
 .buying-card {
-  background-color: #000;
+  background-color: #000000;
   border-radius: 10px;
   box-shadow: 0 0 10px rgba(0,0,0,0.5);
   overflow: hidden;
@@ -208,7 +208,7 @@ ul li {
 }
 
 .buying-items li {
-    list-style: none;
+    list-style-image: url(../../imagens/check.png);
     text-align: left;
     margin-left: 0;
     margin-top: 15px;
@@ -252,5 +252,5 @@ ul li {
 }
 
 .especific-margin-1 {
-    margin-bottom:390px;
+    margin-bottom:480px;
 }
